@@ -1,4 +1,9 @@
-body {
+    .top-span {
+        color: blue;
+        font-weight: bold;
+    }
+
+    body {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color:beige; 
     color: black;
