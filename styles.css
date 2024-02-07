@@ -13,13 +13,13 @@ body {
         border-radius: 10px;
     }
             
-    h1, h2, p, Nav {
+    h1, h2, p, nav {
         text-align: center;
         list-style-position: inside;
     }
 
     ul {
-        text-align: cetner;
+        text-align: center;
     }
 
     ul.no-bullets {
@@ -56,8 +56,4 @@ body {
  
     .image-container {
         display: flex;
-    }
-
-    .imgage-container img {
-        margin-right: 10px;
     }
